@@ -11,8 +11,13 @@ The dataset used in this project includes images of ECGs along with correspondin
 To run this project, you will need the following libraries:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 tensorflow (if using deep learning models)
