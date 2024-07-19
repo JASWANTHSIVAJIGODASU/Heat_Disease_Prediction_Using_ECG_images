@@ -20,4 +20,4 @@ seaborn
 
 scikit-learn
 
-tensorflow (if using deep learning models)
+tensorflow 
